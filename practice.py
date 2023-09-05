@@ -31,7 +31,7 @@ while True:
         else:
             print("invalid input")
         print("ANSWER : " , r)   
-    l = input("Press 'no' to end : ")
+    l = input("Press 'no' to end  or 'ENTER' : ")
     if l == 'no' :
         break
     else:
